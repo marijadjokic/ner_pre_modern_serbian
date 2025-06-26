@@ -1,6 +1,6 @@
-# Serbian Diplomatic Minuscule Cyrillic NER Evaluation
+# Pre-modern Serbian NER Evaluation
 
-This project provides an evaluation script for Named Entity Recognition (NER) models trained on Serbian diplomatic minuscule Cyrillic documents. It is designed to work with spaCy models and annotated DOCX/JSON files.
+This project provides an evaluation script for Named Entity Recognition (NER) models trained on pre-modern Serbian documents. It is designed to work with spaCy models and annotated DOCX/JSON files.
 
 ## Project Structure
 
@@ -54,7 +54,7 @@ The script will print out entity-level outcomes, a classification report, and a 
 
 ## Training Code Access
 
-If you wish to access the full codebase for training your own NER model on Serbian diplomatic minuscule Cyrillic, please contact the authors directly. The training scripts and data preparation tools are not included in this repository.
+If you wish to access the full codebase for training your own NER model on pre-modern Serbian, please contact the authors directly. The training scripts and data preparation tools are not included in this repository.
 
 ## Authors
 
